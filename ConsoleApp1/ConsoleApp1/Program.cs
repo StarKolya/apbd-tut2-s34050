@@ -11,3 +11,9 @@ else
 {
     Console.WriteLine("The number is odd.");
 }
+
+
+static double CalculateAverage(int[] values)
+{
+    return 0.0
+}
