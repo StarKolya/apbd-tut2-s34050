@@ -25,3 +25,7 @@ static double CalculateMax(int[] values)
 
 
 // Here I will implement the Calculate min function 
+static double CalculateMin(int[] values)
+{
+    
+}
