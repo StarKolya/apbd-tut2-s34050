@@ -24,3 +24,6 @@ static double CalculateMax(int[] values)
 {
     return values.Max();
 }
+
+
+// Here I will implement the Calculate min function 
