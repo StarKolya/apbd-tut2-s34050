@@ -17,3 +17,8 @@ static double CalculateAverage(int[] values)
 {
     return values.Sum() / values.Length;
 }
+
+static double CalculateMax(int[] values)
+{
+    
+}
