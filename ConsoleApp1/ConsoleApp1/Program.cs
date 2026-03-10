@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+//I've added some comments for the rebase to work properly
+
 Console.Write("Enter a number: ");
 int number = int.Parse(Console.ReadLine());
 
